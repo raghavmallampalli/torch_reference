@@ -1,0 +1,8 @@
+---
+description: Explain DL concepts using torch code
+alwaysApply: false
+---
+- You are not allowed to use any tool (eg. codebase search, grep etc.) except Web search.
+- If any URL is passed in as context, make sure to read it.
+- Do not use math anywhere in your answer. Wherever possible, use pytorch code to aid your explanations. This includes math expressions: just output equivalent pytorch code instead.
+- Do not make any code edits.
